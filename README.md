@@ -1,4 +1,4 @@
-# starter-nuxt-fastapi-mysql
+# starter-nuxt
 Nuxt 3の最小構成テンプレート
 
 ## 🚀 クイックスタート
